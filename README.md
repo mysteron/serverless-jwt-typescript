@@ -58,7 +58,7 @@ https://platform.serverless.com/services/mysteron/serverless-typescript-example
 ```
 
 Now you can go to https://jwt.io/ to generate a sample token. You can use any payload, but make sure it has at least the following members:
-```
+```json
 {
   "username": "John Doe",
   "exp": 1516239022
